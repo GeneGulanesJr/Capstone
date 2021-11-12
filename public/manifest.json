@@ -1,0 +1,32 @@
+{
+  "theme_color": "#48a98c",
+  "background_color": "#285d4d",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "FHSIS ",
+  "description": "FHSIS Maternal Care Mobile Version",
+  "short_name": "FHSIS Maternal Care",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
