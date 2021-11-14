@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 import { useFormatMessage } from 'hooks';
 import paths from 'pages/Router/paths';
 import NavLink from '../Link';
-import classes from './Aside.module.scss';
+
 
 export const SubMenu = ({ label, children }) => {
   const [active, setActive] = useState(false);
@@ -122,26 +122,6 @@ const Aside = ({ handleMobileToggle }) => {
               </span>
             </NavLink>
           </li>
-          <SubMenu label={useFormatMessage('Aside.dropdownMenu')}>
-            <li>
-              <NavLink
-                className={classes.submenuLink}
-                to={paths.SUBMENU_1}
-                onClick={handleMobileToggle}
-              >
-                <span>{useFormatMessage('Aside.submenu1')}</span>
-              </NavLink>
-            </li>
-            <li>
-              <NavLink
-                className={classes.submenuLink}
-                to={paths.SUBMENU_2}
-                onClick={handleMobileToggle}
-              >
-                <span>{useFormatMessage('Aside.submenu2')}</span>
-              </NavLink>
-            </li>
-          </SubMenu>
         </ul>
       </div>
     </aside>
