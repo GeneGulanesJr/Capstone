@@ -1,9 +1,9 @@
-# React Firebase Admin ⚛️ 🚀
+# FHSIS Mobile Version Open Source Code ⚛️ 🚀
 
 ![ci](https://github.com/CreateThrive/react-firebase-admin/workflows/ci/badge.svg?branch=master)
 [![license: MIT](https://badgen.net/github/license/micromatch/micromatch)](https://github.com/CreateThrive/react-firebase-admin/blob/feature/badges-rename-workflows/LICENSE.md)
 
-Boilerplate with React ⚛️ and Firebase 🔥designed to quickly spin up a fully functional admin dashboard with authentication, authorization, Realtime Database / Firestore, built-in CI/CD, file upload and more. We're using up to date industry standards and next-gen technologies like React (with hooks), redux, bulma, sass, webpack, routing and a serverless architecture.
+Open Source Code with React ⚛️ and Firebase 🔥designed to quickly spin up a fully functional admin dashboard with authentication, authorization, Realtime Database / Firestore, built-in CI/CD, file upload and more. We're using up to date industry standards and next-gen technologies like React (with hooks), redux, bulma, sass, webpack, routing and a serverless architecture.
 
 ![Boilerplate - Users page](https://imgur.com/MWFS3nO.png)
 
@@ -152,7 +152,7 @@ You also need to be familiar with [HTML](https://developer.mozilla.org/en-US/doc
 
 ## Demo
 
-For requesting access to the <a href="https://react-firebase.com/">demo site</a> please <a href="https://createthrive.com/contact">contact us</a>.
+For  access to the demo <a href="https://capstone-93557.firebaseapp.com//">demo site Username: gulanesgene@gmail.com/Password:123456</a>.
 
 ## Contributors
 
