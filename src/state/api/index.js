@@ -5,7 +5,7 @@ import {
   fetchDocument,
   updateDocument,
   batchUpdateDocument,
-} from './firestore';
+} from './rtdb';
 
 export {
   createDocument,
