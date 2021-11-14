@@ -29,6 +29,7 @@ const RouterComponent = () => {
         <PrivateRoute path={paths.SUBMENU_2} component={Submenu} />
         <PrivateRoute path={paths.TEAMS} component={Teams} />
         <PrivateRoute path={paths.ROOT} component={Home} />
+        <PrivateRoute path={paths.SECTION} component={Section} />
         <Route component={NotFound} />
       </Switch>
     </BrowserRouter>

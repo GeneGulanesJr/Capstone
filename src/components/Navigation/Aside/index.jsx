@@ -108,6 +108,20 @@ const Aside = ({ handleMobileToggle }) => {
               </span>
             </NavLink>
           </li>
+          <li>
+            <NavLink
+                to={paths.SECTION}
+                className="has-icon"
+                onClick={handleMobileToggle}
+            >
+              <span className="icon">
+                <i className="mdi mdi-account-group" />
+              </span>
+              <span className="menu-item-label">
+                {useFormatMessage('Aside.section')}
+              </span>
+            </NavLink>
+          </li>
           <SubMenu label={useFormatMessage('Aside.dropdownMenu')}>
             <li>
               <NavLink
