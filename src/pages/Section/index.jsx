@@ -195,7 +195,7 @@ const Section = () => {
                         </div>
                         <div className="level-right">
                             <div className="level-item">
-                                <Link to={paths.ADD_USER} className="button">
+                                <Link to={paths.SUBMENU_1} className="button">
                                     {useFormatMessage('Users.newUser')}
                                 </Link>
                             </div>
