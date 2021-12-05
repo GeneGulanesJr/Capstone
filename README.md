@@ -1,4 +1,4 @@
-# FHSIS Mobile Version Open Source Code ⚛️ 🚀
+# FHSIS Mobile Version Open Source Code ⚛️ 🚀 (Temporarily not working on this boilerplate but on the other repo check it out)
 
 ![ci](https://github.com/CreateThrive/react-firebase-admin/workflows/ci/badge.svg?branch=master)
 [![license: MIT](https://badgen.net/github/license/micromatch/micromatch)](https://github.com/CreateThrive/react-firebase-admin/blob/feature/badges-rename-workflows/LICENSE.md)
