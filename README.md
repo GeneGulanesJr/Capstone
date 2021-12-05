@@ -170,3 +170,7 @@ We'd like to thank these awesome people who made this whole thing happen:
 ## License
 
 This project is licensed under the MIT license, Copyright (c) 2021 Gulanes and Co. For more information see LICENSE.md.
+## Update
+Ended up not using it as its way to complicated for us right now. We moved to a much more easier to use template check my repo.
+We will comeback here when we have much more sufficient skills
+
